@@ -3,10 +3,10 @@
     <a href="https://github.com/Lukeuke"> @Lukeuke </a>
     <ul>
       <li>
-        <a href="https://luuqe.tk/"> website </a
+        <a href="https://lukeuke.vercel.app/"> WEBSITE </a
       </li>
       <li>
-        <a href="https://github.com/Lukeuke/Lukeuke/blob/main/Resume%20-%20%C5%81ukasz%20Mrowiec.pdf"> resume </a>
+        <a href=""> RESUME </a>
       </li>
     </ul>
   </em>
