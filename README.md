@@ -5,7 +5,6 @@
 </p>
 
 <div align="center">
-
   <hr>
   
   My Stack: <br>
@@ -23,6 +22,16 @@
 <br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   <hr>
+
+  <a href="https://www.codewars.com/users/Luuqe">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/Luuqe/badges/large?logo=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/Luuqe/badges/large?logo=false&theme=light">
+      <img alt="Codewars" src="https://www.codewars.com/users/Luuqe/badges/large?logo=false">
+    </picture>
+  </a>
+
+  [![LeetCode user Lukeuke](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLukeuke&logo=leetcode&logoColor=yellow)](https://leetcode.com/Lukeuke/)
   
   [![Lukeuke's github stats](https://github-readme-stats.vercel.app/api?username=Lukeuke&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
