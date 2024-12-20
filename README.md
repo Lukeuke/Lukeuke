@@ -33,9 +33,9 @@
 
   [![LeetCode user Lukeuke](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLukeuke&logo=leetcode&logoColor=yellow)](https://leetcode.com/Lukeuke/)
   
-  [![Lukeuke's github stats](https://github-readme-stats.vercel.app/api?username=Lukeuke&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+  [![Lukeuke's github stats](https://github-readme-stats.vercel.app/api?username=Lukeuke&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Lukeuke's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lukeuke&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![Lukeuke's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Lukeuke&theme=onedark)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 </div>
   
